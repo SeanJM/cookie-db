@@ -1,5 +1,5 @@
 # Cookie Database
-## Version 1.0
+### Version 1.0
 
 ### Requirements
 Jquery (http://jquery.com/)
