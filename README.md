@@ -1,12 +1,12 @@
 # Cookie Database
 ### Version 1.0
 
-### Requirements
+## Requirements
 Jquery (http://jquery.com/)
 
 jquery cookie (https://github.com/carhartl/jquery-cookie)
 
-### Getting Started
+## Getting Started
 #### Setting your project name
 
     var db = {
