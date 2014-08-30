@@ -3,6 +3,7 @@
 
 ### Requirements
 Jquery (http://jquery.com/)
+
 jquery cookie (https://github.com/carhartl/jquery-cookie)
 
 ### Getting Started
