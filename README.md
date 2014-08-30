@@ -25,6 +25,6 @@ jquery cookie (https://github.com/carhartl/jquery-cookie)
     db.set('key','key','key',[array]);
 
 #### Getting a value
-  db.get('key');
+    db.get('key');
 
-  db.get('key','key','key')
+    db.get('key','key','key')
